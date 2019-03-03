@@ -1,6 +1,6 @@
 #  Gromiko Artem
 
-+375 44 743-734-1
++375 44 743-734-1  
 ica-e@mail.ru
 #  Summary
 I do not have enough experience in front-end development, but every day I spend a lot of time learning new / strengthening knowledge in the already studied technologies.
@@ -21,5 +21,5 @@ I am goal-oriented and ready to quickly learn and apply what I have learned on r
 Dozens of different webinars
 #  English
 
-Listening / Teds lectures/ Translation of texts / exercises in Lingualeo
+Listening / Teds lectures/ Translation of texts / exercises in Lingualeo  
 Level: A2
